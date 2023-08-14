@@ -127,8 +127,8 @@ async def help_handler(bot, message):
         disable_web_page_preview=True,
         reply_markup=InlineKeyboardMarkup(
             [
-                [InlineKeyboardButton("💁‍♂️ Owner", url="https://github.com/DX-MODS")],
-                [InlineKeyboardButton("💥 Source Code", url="https://github.com/DX-MODS/DxStreamerBot")]
+                [InlineKeyboardButton("💁‍♂️ Owner", url="https://t.me/Attitude2688")],
+                [InlineKeyboardButton("💥 Source Code", url="https://t.me/Attitude2688")]
             ]
         )
     )
