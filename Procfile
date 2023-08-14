@@ -1,1 +1,1 @@
-web: python3 -m botsup
+web: python3 -m Dxbots
