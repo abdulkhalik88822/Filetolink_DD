@@ -4,7 +4,7 @@ services:
     name: Filetolink_DD
     env: python
     buildCommand: pip install -r requirements.txt
-    startCommand: python3 -m botsup 
+    startCommand: python3 -m Dxbots 
     repo: https://github.com/abdulkhalik88822/Filetolink_DD.git      
     branch: main
     envVars:
